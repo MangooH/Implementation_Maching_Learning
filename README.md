@@ -5,6 +5,7 @@
 
 - 머신러닝 파이프라인(Data - Machine learning - Intelligence)를 이해
 - 머신러닝의 수학적인 지식과 알고리즘 학습
+- 머신러닝 라이브러리(scikit-learn 등)를 사용하지 않고 Numpy 만을 사용하여 알고리즘을 구현한다.
 
 ### 목차
 
